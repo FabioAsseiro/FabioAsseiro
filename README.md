@@ -14,7 +14,8 @@
 [![linkdlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fábio-nogueira-asseiro)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://fabioasseiro.github.io/apresentacao-fabio/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:fabionogueira.18@outlook.com)
-[![Curriculo](https://img.shields.io/badge/-Curriculo-000?style=for-the-badge&logo=:memo: )](<img src="Currículo.pdf">)
+[![Curriculo](https://img.shields.io/badge/-Curr%C3%ADculo-000?style=for-the-badge&logo=pdf)](Curriculo.pdf)
+
 
 <img src="linha.png" width="100%" height="3px" style="border-radius: 5px;">
 

@@ -2,7 +2,7 @@
 
 <div align='center' width=100%>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=006437&center=true&vCenter=true&width=435&lines=Ol%C3%A1+me+chama+Fabio+Nogueira;Tenho+20+anos;Sou+Desenvolvedor+Front-End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=006437&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Fabio+Nogueira;Tenho+20+anos;Sou+Desenvolvedor+Front-End)](https://git.io/typing-svg)
 
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FabioAsseiro&show_icons=true&count_private=true&title_color=fff&icon_color=F2CFC9&text_color=fff&bg_color=4f774f&border_color=fff0" /> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioAsseiro&layout=compact&title_color=fff&text_color=fff&bg_color=4f774f&border_color=fff0" />
